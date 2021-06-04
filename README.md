@@ -1,4 +1,4 @@
-# flowers-multi-layer-perceptron
+# flowers dataset
 Tugas matakuliah Pembelajaran Mesin (Machine Learning) 
 
 Dataset : https://www.kaggle.com/alxmamaev/flowers-recognition
